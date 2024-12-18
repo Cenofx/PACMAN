@@ -1,4 +1,5 @@
 Pac-Man Game 🎮
+
 Pac-Man is a classic arcade game originally developed by Namco and released in 1980. The game quickly became one of the most iconic and influential video games of all time, thanks to its simple yet engaging gameplay and charming design.
 
 Gameplay
